@@ -1,4 +1,3 @@
-// IF READING ON VS CODE, USE ALT + Z FOR COMMENT FORMATTING TO BE BETTER
 
 // BUDGET CONTROLLER
 var budgetController = ( function() {
